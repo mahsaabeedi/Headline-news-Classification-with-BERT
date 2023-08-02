@@ -2,14 +2,12 @@
 Identify the type of news based on headlines and short descriptions
 
 # Dataset
-This dataset contains around 200k news headlines from the year 2012 to 2018 obtained from HuffPost. The model trained on this dataset could be used to identify tags for untracked news articles or to identify the type of language used in different news articles. [Kaggle](https://www.kaggle.com/rmisra/news-category-dataset)
+This dataset contains around 200k news headlines from the year 2012 to 2018 obtained from HuffPost. The model trained on this dataset could be used to identify tags for untracked news articles or to identify the type of language used in different news articles.
   
 # Implementations
   - [x] BERT (Fine-Tuning)
   - [x] Bi-GRU + CONV
   - [x] LSTM + Attention
-  
-## Try it on [Colab Notebook](https://colab.research.google.com/drive/1wPXAuNP-iXsXxBhxG0l6Yv94gqlGNPJB)
 
 # TL;DR
   
